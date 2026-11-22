@@ -1,0 +1,39 @@
+{
+  "summary": "A02 leads the 3 eligible takes.",
+  "metrics": {
+    "Takes": 4,
+    "Eligible": 3,
+    "Script words": 10,
+    "Target (s)": 4.5
+  },
+  "rows": [
+    {
+      "Take": "A02",
+      "Script covered (%)": 100.0,
+      "Duration (s)": 4.7,
+      "Score": 99.1,
+      "Logged defects": "None"
+    },
+    {
+      "Take": "A01",
+      "Script covered (%)": 90.0,
+      "Duration (s)": 4.2,
+      "Score": 91.7,
+      "Logged defects": "None"
+    },
+    {
+      "Take": "A04",
+      "Script covered (%)": 100.0,
+      "Duration (s)": 6.4,
+      "Score": 83.7,
+      "Logged defects": "minor: Soft sleeve rustle at the beginning"
+    },
+    {
+      "Take": "A03",
+      "Script covered (%)": 100.0,
+      "Duration (s)": 4.5,
+      "Score": 70.0,
+      "Logged defects": "blocking: Mic cable disconnected during the final phrase"
+    }
+  ]
+}

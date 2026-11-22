@@ -1,0 +1,40 @@
+{
+  "script": "Turn the brass ring until the marker clicks into place.",
+  "target_seconds": 4.5,
+  "takes": [
+    {
+      "id": "A01",
+      "transcript": "Turn the ring until the marker clicks into place.",
+      "seconds": 4.2,
+      "defects": []
+    },
+    {
+      "id": "A02",
+      "transcript": "Turn the brass ring until the marker clicks into place.",
+      "seconds": 4.7,
+      "defects": []
+    },
+    {
+      "id": "A03",
+      "transcript": "Turn the brass ring until the marker clicks into place.",
+      "seconds": 4.5,
+      "defects": [
+        {
+          "severity": "blocking",
+          "note": "Mic cable disconnected during the final phrase"
+        }
+      ]
+    },
+    {
+      "id": "A04",
+      "transcript": "Now just turn the brass ring until the marker clicks into place like this.",
+      "seconds": 6.4,
+      "defects": [
+        {
+          "severity": "minor",
+          "note": "Soft sleeve rustle at the beginning"
+        }
+      ]
+    }
+  ]
+}
