@@ -1,0 +1,14 @@
+{
+  "model": "gemma-4-e4b-it",
+  "text": "Row 4 · Does the 'mic cable disconnected' blocking defect in this row justify further review or adjustment to the score?",
+  "row": 4,
+  "record": {
+    "Take": "A03",
+    "Script covered (%)": 100.0,
+    "Duration (s)": 4.5,
+    "Score": 70.0,
+    "Logged defects": "blocking: Mic cable disconnected during the final phrase"
+  },
+  "source_sha256": "efa52d1139ef601a03cc3449ee62cd64b287fb08d216fcba74bc16d57c0c9e46",
+  "report_sha256": "4d66808bd12af32c81f2498b7a8dd6f1a82c732805535a1f9c3cdc4ea2da5978"
+}
